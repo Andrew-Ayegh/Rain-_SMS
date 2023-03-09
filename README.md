@@ -1,2 +1,2 @@
-# Rain-_SMS
+# Rain Alert
 Auto SMS sender for wehn it's going to rain during the day with Twilio API
